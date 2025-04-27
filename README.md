@@ -1,3 +1,20 @@
+claw免费容器 首月送5$，不需要验证信用卡，如果是已经有180天的github用户注册，可解锁每月5$
+
+点击这个链接进行注册：https://console.run.claw.cloud/signin?link=UDKJPZLNV4SK
+
+项目地址：https://hub.docker.com/r/metaligh/3x-ui
+
+Image Name：metaligh/3x-ui
+
+
+数据卷挂载 Local Storage
+
+Mount Path： /etc/x-ui/
+
+Mount Path ： /etc/letsencrypt/
+
+
+
 [English](/README.md) | [فارسی](/README.fa_IR.md) | [العربية](/README.ar_EG.md) |  [中文](/README.zh_CN.md) | [Español](/README.es_ES.md) | [Русский](/README.ru_RU.md) 
 
 <p align="center">
